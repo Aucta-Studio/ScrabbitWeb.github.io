@@ -44,11 +44,5 @@ window.addEventListener
             );
         }
     );
-
-    /*document.getElementById("submitButton").addEventListener("click", myFunction);
-    function myFunction() 
-    {
-        window.location.href="mailto:funmilola10000@gmail.com";
-    }*/
 }
 );
